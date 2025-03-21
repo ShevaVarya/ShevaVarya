@@ -17,7 +17,6 @@ Here are some of my recent projects:
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shevavarya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shevavarya&layout=compact&theme=radical)
 
 ### 📊 Additional Stats
 ![Metrics](https://github.com/shevavarya/shevavarya/blob/main/github-metrics.svg)
