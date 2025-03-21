@@ -20,10 +20,10 @@ Here are some of my recent projects:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shevavarya&layout=compact&theme=radical)
 
 ### 📊 Additional Stats
-![Metrics](https://github.com/YOUR_GITHUB_USERNAME/shevavarya/blob/main/github-metrics.svg)
+![Metrics](https://github.com/shevavarya/shevavarya/blob/main/github-metrics.svg)
 
 ### 📫 Contact Me
-- Telegram: [@YOUR_TELEGRAM](https://t.me/shevchik_v)
+- Telegram: [@shevchik_v](https://t.me/shevchik_v)
 - Email: sheva.varya@gmail.com
 
 Let's build something amazing together! 🚀
