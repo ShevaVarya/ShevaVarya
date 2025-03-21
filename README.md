@@ -1,6 +1,6 @@
 ## Hi there, I`m Varvara 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shevavarya)](https://github.com/shevavarya/github-readme-stats)
 
 <!--
 **ShevaVarya/ShevaVarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
