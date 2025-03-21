@@ -12,15 +12,15 @@ I'm an aspiring **Android Developer** with a passion for building mobile applica
 
 ### 📌 Projects
 Here are some of my recent projects:
-- **Project Name** - Short description ([GitHub Repo]((https://github.com/ShevaVarya/Hand-Hunter)))
-- **Project Name** - Short description ([GitHub Repo]((https://github.com/ShevaVarya/Playlist-Maker)))
+- **Project Name** - App to find a cool job with HeadHunter API ([HandHunter]((https://github.com/ShevaVarya/Hand-Hunter)))
+- **Project Name** - App to create music paylist with ITunes API ([PlaylistMaker]((https://github.com/ShevaVarya/Playlist-Maker)))
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shevavarya&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shevavarya&layout=compact&theme=radical)
 
 ### 📊 Additional Stats
-![Metrics](https://github.com/shevavarya/shevavarya/blob/main/github-metrics.svg)
+![Metrics](https://github.com/shevavarya/blob/main/github-metrics.svg)
 
 ### 📫 Contact Me
 - Telegram: [@shevchik_v](https://t.me/shevchik_v)
