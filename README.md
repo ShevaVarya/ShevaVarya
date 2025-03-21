@@ -18,8 +18,8 @@ Here are some of my recent projects:
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shevavarya&show_icons=true&theme=radical)
 
-### 📊 Additional Stats
-![Metrics](https://github.com/shevavarya/shevavarya/blob/main/github-metrics.svg)
+<--### 📊 Additional Stats
+![Metrics](https://github.com/shevavarya/shevavarya/blob/main/github-metrics.svg) -->
 
 ### 📫 Contact Me
 - Telegram: [@shevchik_v](https://t.me/shevchik_v)
