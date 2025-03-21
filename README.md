@@ -1,8 +1,33 @@
 ## Hi there, I`m Varvara 👋
 
+I'm an aspiring **Android Developer** with a passion for building mobile applications. I'm continuously learning and improving my skills in Kotlin, Jetpack Compose, and modern Android development practices.
 
+### 🚀 Technologies & Tools
+- Kotlin, Java
+- Jetpack Compose, XML
+- Coroutines, Flow
+- MVVM, Clean Architecture
+- Koin, Retrofit, Room
+- Git, GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shevavarya)](https://github.com/shevavarya/github-readme-stats)
+### 📌 Projects
+Here are some of my recent projects:
+- **Project Name** - Short description ([GitHub Repo]((https://github.com/ShevaVarya/Hand-Hunter)))
+- **Project Name** - Short description ([GitHub Repo]((https://github.com/ShevaVarya/Playlist-Maker)))
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shevavarya&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shevavarya&layout=compact&theme=radical)
+
+### 📊 Additional Stats
+![Metrics](https://github.com/YOUR_GITHUB_USERNAME/shevavarya/blob/main/github-metrics.svg)
+
+### 📫 Contact Me
+- Telegram: [@YOUR_TELEGRAM](https://t.me/shevchik_v)
+- Email: sheva.varya@gmail.com
+
+Let's build something amazing together! 🚀
+
 
 <!--
 **ShevaVarya/ShevaVarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
