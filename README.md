@@ -14,6 +14,7 @@ I'm an aspiring **Android Developer** with a passion for building mobile applica
 Here are some of my recent projects:
 - **HandHunter** - An app to find a cool job using the HeadHunter API ([GitHub Repo](https://github.com/ShevaVarya/Hand-Hunter))
 - **PlaylistMaker** - An app to create music playlists using the iTunes API ([GitHub Repo](https://github.com/ShevaVarya/Playlist-Maker))
+- **MiniPlay** - An app to play music using DeezerApi and also play local files ([GitHub Repo](https://github.com/ShevaVarya/MiniPlay))
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shevavarya&show_icons=true&theme=radical)
