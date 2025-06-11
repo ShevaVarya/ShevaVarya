@@ -1,26 +1,31 @@
-## Hi there, I'm Varvara 👋
+## Привет, меня зовут Варя 👋
 
-I'm an aspiring **Android Developer** with a passion for building mobile applications. I'm continuously learning and improving my skills in Kotlin, Jetpack Compose, and modern Android development practices.
+Я Android-разработчик, увлеченный созданием мобильных приложений. Постоянно изучаю новые технологии и совершенствую свои навыки в Kotlin и современных подходах к разработке под Android.
 
 ### 🚀 Technologies & Tools
-- Kotlin, Java
-- Jetpack Compose, XML
-- Coroutines, Flow
-- MVVM, Clean Architecture
-- Koin, Retrofit, Room
-- Git, GitHub
+- Языки: Kotlin, Java
+- UI: Jetpack Compose, XML
+- Асинхронность: Coroutines, Flow
+- Архитектура: MVVM, Clean Architecture
+- Библиотеки: Koin, Retrofit, Room, Firebase Cloud Messaging
+- Системы контроля версий: Git, GitHub
+- И другое...
 
 ### 📌 Projects
 Here are some of my recent projects:
 - **HandHunter** - An app to find a cool job using the HeadHunter API ([GitHub Repo](https://github.com/ShevaVarya/Hand-Hunter))
 - **PlaylistMaker** - An app to create music playlists using the iTunes API ([GitHub Repo](https://github.com/ShevaVarya/Playlist-Maker))
 - **MiniPlay** - An app to play music using DeezerApi and also play local files ([GitHub Repo](https://github.com/ShevaVarya/MiniPlay))
+- **HandHunter** — приложение для поиска работы через HeadHunter API ([GitHub Repo](https://github.com/ShevaVarya/Hand-Hunter))
+- **PlaylistMaker** — создание музыкальных плейлистов с iTunes API ([GitHub Repo](https://github.com/ShevaVarya/Playlist-Maker))
+- **MiniPlay** — проигрыватель музыки (Deezer API + локальные файлы) ([GitHub Repo](https://github.com/ShevaVarya/MiniPlay))
 
-### 📊 GitHub Stats
+### 📊 GitHub Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shevavarya&show_icons=true&theme=radical)
 
-### 📫 Contact Me
+### 📫 Связаться со мной:
 - Telegram: [@shevchik_v](https://t.me/shevchik_v)
 - Email: sheva.varya@gmail.com
 
-Let's build something amazing together! 🚀
+Давайте создадим что-то крутое вместе! 🚀
+
