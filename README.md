@@ -12,10 +12,6 @@
 - И другое...
 
 ### 📌 Projects
-Here are some of my recent projects:
-- **HandHunter** - An app to find a cool job using the HeadHunter API ([GitHub Repo](https://github.com/ShevaVarya/Hand-Hunter))
-- **PlaylistMaker** - An app to create music playlists using the iTunes API ([GitHub Repo](https://github.com/ShevaVarya/Playlist-Maker))
-- **MiniPlay** - An app to play music using DeezerApi and also play local files ([GitHub Repo](https://github.com/ShevaVarya/MiniPlay))
 - **HandHunter** — приложение для поиска работы через HeadHunter API ([GitHub Repo](https://github.com/ShevaVarya/Hand-Hunter))
 - **PlaylistMaker** — создание музыкальных плейлистов с iTunes API ([GitHub Repo](https://github.com/ShevaVarya/Playlist-Maker))
 - **MiniPlay** — проигрыватель музыки (Deezer API + локальные файлы) ([GitHub Repo](https://github.com/ShevaVarya/MiniPlay))
